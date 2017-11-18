@@ -1,0 +1,23 @@
+{
+  "name": "express-oauth2-server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "co-views": "^2.1.0",
+    "express": "^4.16.2",
+    "express-oauth-server": "^2.0.0",
+    "pg-promise": "^7.3.1",
+    "util": "^0.10.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rwibawa/express-oauth2-server.git"
+  },
+  "author": "Ryan Wibawa <ryan.wibawa@gmail.com> (https://github.com/rwibawa)",
+  "license": "MIT"
+}
